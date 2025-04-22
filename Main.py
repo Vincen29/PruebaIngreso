@@ -4,7 +4,7 @@
 import threading
 import math as m
 import numpy as np
-#Clase de velovidad angular aplicada
+#Clase de velocidad angular aplicada
 class Velcanfapl:
 
     def __init__(self):
